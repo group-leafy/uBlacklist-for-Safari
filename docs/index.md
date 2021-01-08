@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## uBlacklist for Safari
 
-You can use the [editor on GitHub](https://github.com/group-leafy/uBlacklist-for-Safari/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+uBlacklist for Safari is a Search Engine filter for Safari. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is made possible by the [uBlacklist](https://github.com/iorate/uBlacklist) open source project and other [open source software](https://group-leafy.github.io/uBlacklist-for-Safari/other-licence).
 
-### Markdown
+## Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Prevent blocked sites from appearing even in a moment
+* Block sites flexibly using match patterns and regular expressions
+* Support Bing, DuckDuckGo, Ecosia (partially) and Startpage.com
+* Subscribe to public blacklists
 
-```markdown
-Syntax highlighted code block
+## Manual
 
-# Header 1
-## Header 2
-### Header 3
+* [Getting Started](https://iorate.github.io/ublacklist/getting-started) (Written by [iorate](https://twitter.com/iorate))
+* [Advanced Features](https://iorate.github.io/ublacklist/advanced-features) (Written by [iorate](https://twitter.com/iorate))
 
-- Bulleted
-- List
+## Links
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/group-leafy/uBlacklist-for-Safari/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Privacy](https://group-leafy.github.io/uBlacklist-for-Safari/privacy)
+* [Contact us](mailto:group.leafy@gmail.com)
