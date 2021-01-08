@@ -2,7 +2,7 @@
 
 uBlacklist for Safari is a Search Engine filter for Safari. 
 
-It is made possible by the [uBlacklist](https://github.com/iorate/uBlacklist) open source project and other [open source software](https://group-leafy.github.io/uBlacklist-for-Safari/other-licence).
+It is made possible by the [uBlacklist](https://iorate.github.io/ublacklist/) open source project and other [open source software](https://group-leafy.github.io/uBlacklist-for-Safari/other-licence).
 
 ## Features
 

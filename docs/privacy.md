@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-By accessing or using the Services, you agree to this Privacy Policy, and our [Terms of Service](https://dr-exif.netlify.app/terms.html). If you have any questions about this Privacy Policy, you can [contact us](mailto:group.leafy@gmail.com).
+By accessing or using the Services, you agree to this Privacy Policy. If you have any questions about this Privacy Policy, you can [contact us](mailto:group.leafy@gmail.com).
 
 ### Information We Collects and Use
 
