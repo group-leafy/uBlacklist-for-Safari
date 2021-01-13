@@ -127,7 +127,7 @@ $section-headings-color: #8f68cf !default;
     height: 100%;
     display: block;
     margin-right: 0.5rem;
-    mask-image: url("assets/image/ios-mask.svg");
+    mask-image: url("../image/ios-mask.svg");
     mask-size: cover;
 }
 
@@ -173,7 +173,7 @@ $section-headings-color: #8f68cf !default;
 
 .app-icon-in-main {
     border-radius: 22.5%;
-    mask-image: url("assets/image/ios-mask.svg");
+    mask-image: url("../image/ios-mask.svg");
     mask-size: cover;
     width: 100%;
     height: auto;
