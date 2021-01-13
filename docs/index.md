@@ -2,8 +2,6 @@
 layout: main
 ---
 
-## uBlacklist for Safari
-
 uBlacklist for Safari is a Search Engine filter for Safari. 
 
 It is made possible by the [uBlacklist](https://iorate.github.io/ublacklist/) open source project and other [open source software](/other-licence).

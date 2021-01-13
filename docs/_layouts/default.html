@@ -24,7 +24,7 @@
     <header class="page-header-in-page" role="banner">
       <div class="page-header-container-in-page">
         {% if site.show_app_icon %}
-        <a href="{{ relative_url }}" class="project-name-link-in-page"><img src="{{ site.app_icon }}" class="app-icon-in-page"></a>
+        <a href="{{ '/' | relative_url }}" class="project-name-link-in-page"><img src="{{ site.app_icon }}" class="app-icon-in-page"></a>
         {% endif %}
         <a href="{{ '/' | relative_url }}" class="project-name-link-in-page">{{ page.title | default: site.title | default: site.github.repository_name }}</a>
       </div>
