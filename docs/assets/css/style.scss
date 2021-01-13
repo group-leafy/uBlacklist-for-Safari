@@ -53,6 +53,10 @@ $screenshot-item-width: 300px;
     list-style: none;
     display: flex;
     padding-left: 0;
+
+    :first-child {
+        margin-left: 0;
+    }
     
     @include medium {
         justify-content: center;
@@ -149,8 +153,6 @@ $screenshot-item-width: 300px;
     height: 100%;
     display: block;
     margin-right: 0.5rem;
-    mask-image: url("../image/ios-mask.svg");
-    mask-size: cover;
 }
 
 .page-header-container-in-page {
@@ -195,8 +197,6 @@ $screenshot-item-width: 300px;
 
 .app-icon-in-main {
     border-radius: 22.5%;
-    mask-image: url("../image/ios-mask.svg");
-    mask-size: cover;
     width: 100%;
     height: auto;
 }
