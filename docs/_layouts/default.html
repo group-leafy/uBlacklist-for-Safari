@@ -26,7 +26,7 @@
         {% if site.show_app_icon %}
         <a href="{{ '/' | relative_url }}" class="project-name-link-in-page"><img src="{{ site.app_icon }}" class="app-icon-in-page"></a>
         {% endif %}
-        <a href="{{ '/' | relative_url }}" class="project-name-link-in-page">{{ page.title | default: site.title | default: site.github.repository_name }}</a>
+        <a href="{{ '/' | relative_url }}" class="project-name-link-in-page">{{ default: site.title | default: site.github.repository_name }}</a>
       </div>
     </header>
 
