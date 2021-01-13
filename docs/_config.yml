@@ -27,7 +27,7 @@ privacy_link: 'privacy'
 copyright: 'Copyright Group-Leafy. All rights reserved'
 
 show_app_icon: true
-app_icon: '/assets/image/icon.png'
+app_icon: 'assets/image/icon.png'
 
 show_screenshot: true
 screenshots: ['/assets/image/preview1.png', '/assets/image/preview2.png', '/assets/image/preview3.png', '/assets/image/preview4.png']
