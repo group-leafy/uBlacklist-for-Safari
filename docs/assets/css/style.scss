@@ -1,0 +1,248 @@
+---
+---
+
+$header-bg-color: #8f68cf !default;
+$header-bg-color-secondary: #155799 !default;
+$section-headings-color: #8f68cf !default;
+
+@import 'jekyll-theme-cayman';
+
+.page-header {
+    text-align: center;
+    background-color: $header-bg-color;
+    background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  
+    @include large {
+      padding: 3rem 5rem;
+    }
+  
+    @include medium {
+      padding: 3rem 4rem;
+    }
+  
+    @include small {
+      padding: 2rem 1rem;
+    }
+}
+
+.main-content {
+    max-width: 70rem;
+}
+
+.footer_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer_links {
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+}
+
+.footer_link {
+    margin-left: 25px;
+}
+
+.project-name-link {
+    font-weight: bold;
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 0.1rem;
+
+    &:hover {
+        text-decoration: none;
+    }
+  
+    @include large {
+      font-size: 3.25rem;
+    }
+  
+    @include medium {
+      font-size: 2.25rem;
+    }
+  
+    @include small {
+      font-size: 1.75rem;
+    }
+}
+
+.screenshot-wrapper {
+    overflow-y: auto;
+    max-width: 100%;
+}
+
+.screenshot-title {
+    margin-bottom: 0 !important;
+}
+
+.screenshot-list {
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px 200px 200px;
+    column-gap: 20px;
+    padding: 30px 0;
+}
+
+.screenshot-item {
+    border: 0;
+    box-shadow: none;
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+}
+
+.screenshot-img {
+    display: block;
+    width: 100%;
+    border-radius: 16px;
+    box-shadow: 0 12px 48px rgba(17, 16, 62, 0.12);
+    cursor: pointer;
+}
+
+// page
+
+.page-header-in-page {
+    color: $header-heading-color;
+    background-color: $header-bg-color;
+    background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+    padding: 1rem 1rem;
+}
+
+.project-name-link-in-page {
+    font-weight: bold;
+    color: #fff;
+    font-size: 1rem;
+
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.app-icon-in-page {
+    border-radius: 22.5%;
+    max-height: 2.2rem;
+    max-width: 2.2rem;
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin-right: 0.5rem;
+    mask-image: url("/assets/image/ios-mask.svg");
+    mask-size: cover;
+}
+
+.page-header-container-in-page {
+    display: flex;
+    align-items: center;
+
+    @include large {
+        justify-content: center;
+    }
+
+    @include medium {
+        justify-content: center;
+    }
+
+    @include small {
+        justify-content: left;
+    }
+}
+
+// main
+
+.app-icon-wrapper-in-main {
+    display: inline-block;
+    max-width: 250px;
+    max-height: 250px;
+    margin-right: 64px;
+    width: 100%;
+    height: 100%;
+
+    @include medium {
+        max-width: 100px;
+        max-height: 100px;
+        margin-right: 0px;
+    }
+
+    @include small {
+        max-width: 100px;
+        max-height: 100px;
+        margin-right: 0px;
+    }
+}
+
+.app-icon-in-main {
+    border-radius: 22.5%;
+    mask-image: url("/assets/image/ios-mask.svg");
+    mask-size: cover;
+    width: 100%;
+    height: auto;
+}
+
+.page-header-container-in-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    @include medium {
+        list-style: none;
+        display: list-item;
+    }
+
+    @include small {
+        list-style: none;
+        display: list-item;
+    }
+}
+
+.project-btns-large {
+    display: inline-block;
+    white-space: nowrap;
+
+    @include medium {
+        display: none;
+    }
+
+    @include small {
+        display: none;
+    }
+}
+
+.project-btns-small {
+    display: none;
+    margin-bottom: 0rem;
+    line-height: 100%;
+    width: 100%;
+
+    @include medium {
+        display: inline-block;
+    }
+
+    @include small {
+        display: inline-block;
+    }
+}
+
+.project-name {
+    white-space: nowrap;
+    @include small {
+        margin-bottom: 0;
+    }
+}
+
+.project-tagline {
+    @include small {
+        margin-bottom: 0rem;
+    }
+}
+
+.btn {
+    @include large {
+        margin-bottom: 0rem;
+    }
+
+    @include small {
+        margin-top: 1rem;
+        margin-bottom: 0rem;
+    }
+}

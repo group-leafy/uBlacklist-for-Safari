@@ -1,4 +1,33 @@
 theme: jekyll-theme-cayman
 title: 'uBlacklist for Safari'
-description: 'Search engine filter for safari'
-show_downloads: false
+description: 'Search Engine filter for Safari'
+# google_analytics: G-NWQY9CVPF7
+
+show_ios_download_btn: true
+ios_download_url: 'https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640'
+ios_download_btn_title: 'Download from Mac App Store'
+
+show_android_download_btn: false
+android_download_url: 'https://www.google.com'
+android_download_btn_title: 'Download on the Google Play'
+
+show_web_download_btn: false
+web_download_url: 'https://www.google.com'
+web_download_btn_title: 'HomePage'
+
+show_email_link: true
+email: 'group.leafy@gmail.com'
+
+show_terms_link: true
+terms_link: 'terms'
+
+show_privacy_link: true
+privacy_link: 'privacy'
+
+copyright: 'Copyright Group-Leafy. All rights reserved'
+
+show_app_icon: true
+app_icon: '/assets/image/icon.png'
+
+show_screenshot: true
+screenshots: ['/assets/image/preview1.png', '/assets/image/preview2.png', '/assets/image/preview3.png', '/assets/image/preview4.png']

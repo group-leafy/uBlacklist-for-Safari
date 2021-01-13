@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Terms of Service
 
 ### Welcome
@@ -8,7 +12,7 @@ These terms govern your use of Group-Leafy product.
 
 ### Privacy and Copyright Protection
 
-[Privacy Policy](https://group-leafy.github.io/uBlacklist-for-Safari/privacy) explains how we treat your personal data and protect your privacy when you use our Services.
+[Privacy Policy](privacy) explains how we treat your personal data and protect your privacy when you use our Services.
 
 ### About Software in Our Services
 
@@ -38,6 +42,6 @@ WE CANNOT PREDICT WHEN ISSUES MIGHT ARISE WITH OUR SERVICES. ACCORDINGLY, OUR LI
 ### About These Terms
 These terms control the relationship between Group-Leafy and you. They do not create any third party beneficiary rights. If you do not comply with these terms, and we don't take action right away, this doesn't mean that we are giving up any rights that we may have (such as taking action in the future).If it turns out that a particular term is not enforceable, this will not affect any other terms.
 
-For more information, please [contact us](mailto:group.leafy@gmail.com).
+For more information, please [contact us](mailto:{{ site.email }}).
 
 Date of Last Revision: January 8, 2021

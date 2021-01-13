@@ -1,6 +1,10 @@
+---
+layout: default
+---
+
 ## Privacy Policy
 
-By accessing or using the Services, you agree to this Privacy Policy, and our [Terms of Service](https://group-leafy.github.io/uBlacklist-for-Safari/terms). If you have any questions about this Privacy Policy, you can [contact us](mailto:group.leafy@gmail.com).
+By accessing or using the Services, you agree to this Privacy Policy, and our [Terms of Service](terms). If you have any questions about this Privacy Policy, you can [contact us](mailto:{{ site.email }}).
 
 ### Information We Collects and Use
 

@@ -1,8 +1,12 @@
+---
+layout: main
+---
+
 ## uBlacklist for Safari
 
 uBlacklist for Safari is a Search Engine filter for Safari. 
 
-It is made possible by the [uBlacklist](https://iorate.github.io/ublacklist/) open source project and other [open source software](https://group-leafy.github.io/uBlacklist-for-Safari/other-licence).
+It is made possible by the [uBlacklist](https://iorate.github.io/ublacklist/) open source project and other [open source software](/other-licence).
 
 ## Features
 
@@ -15,8 +19,3 @@ It is made possible by the [uBlacklist](https://iorate.github.io/ublacklist/) op
 
 * [Getting Started](https://iorate.github.io/ublacklist/getting-started) (Written by [iorate](https://twitter.com/iorate))
 * [Advanced Features](https://iorate.github.io/ublacklist/advanced-features) (Written by [iorate](https://twitter.com/iorate))
-
-## Links
-
-* [Privacy](https://group-leafy.github.io/uBlacklist-for-Safari/privacy)
-* [Contact us](mailto:group.leafy@gmail.com)

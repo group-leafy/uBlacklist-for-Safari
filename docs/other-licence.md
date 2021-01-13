@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 @mdi/svg
 Apache-2.0
 Pictogrammers Free License
