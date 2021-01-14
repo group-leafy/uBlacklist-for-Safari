@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: 'uBlacklist for Safari'
 description: 'Search Engine filter for Safari'
-# google_analytics: G-NWQY9CVPF7
+google_analytics: G-NWQY9CVPF7
 
 show_ios_download_btn: true
 ios_download_url: 'https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640'
