@@ -5,15 +5,15 @@ google_analytics: G-NWQY9CVPF7
 
 show_ios_download_btn: true
 ios_download_url: 'https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640'
-ios_download_btn_title: 'Download from Mac App Store'
+ios_download_btn_title: 'Download for macOS'
 
 show_android_download_btn: false
 android_download_url: 'https://www.google.com'
 android_download_btn_title: 'Download on the Google Play'
 
-show_web_download_btn: false
-web_download_url: 'https://www.google.com'
-web_download_btn_title: 'HomePage'
+show_web_download_btn: true
+web_download_url: 'https://group-leafy.github.io/uBlacklist-for-Safari/'
+web_download_btn_title: 'Download for iOS'
 
 show_email_link: true
 email: 'group.leafy@gmail.com'
