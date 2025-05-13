@@ -1,6 +1,6 @@
 ## 简介
 
-在使用 Google 等搜索引擎的时候，我们会发现越来越多的机翻、SEO 网站占据了搜索结果前列（尤其是搜索一些技术问题时）。
+ 在使用 Google 等搜索引擎的时候，我们会发现越来越多的机翻、SEO 网站占据了搜索结果前列（尤其是搜索一些技术问题时）。
 这些网站使用机器翻译 stackoverflow 等网站的问答帖、拼凑各种关键词，质量低下，完全没有查看的价值，严重干扰了用户获取信息的速度。
 
 uBlacklist for Safari 是一款搜索引擎结果过滤器插件，可以根据用户的规则隐藏掉匹配的搜索结果条目。
@@ -8,4 +8,4 @@ uBlacklist for Safari 是一款搜索引擎结果过滤器插件，可以根据�
 
 在插件内还可以选择订阅 blacklist，现在已经有不少人在 github 上公开发布了 blacklist，用户添加订阅后可以快速的达到不错的过滤效果。
 
-uBlacklist 是一个开源项目，[项目主页](https://iorate.github.io/ublacklist/), 原作者在 Chrome 和 Firefox 插件商店内已经发布这个插件
+uBlacklist 是一个开源项目，[项目主页](https://ublacklist.github.io/), 原作者在 Chrome 和 Firefox 插件商店内已经发布这个插件
